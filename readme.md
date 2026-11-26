@@ -1,4 +1,12 @@
 # AiRM Flyer
+## MULTI CORE???
+### Core 0
+- Tudo que não tá no Core 1
+### Core 1
+- Display
+- Luzis i ledis
+- Buzzer
+
 ## Módulos
 ### Bare-Metal
 - BtnInput
@@ -6,7 +14,7 @@
 - PWM
 - ADC
 
-### Alto nível
+### High Level
 - System
 
 ## Botões
