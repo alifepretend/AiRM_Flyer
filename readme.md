@@ -8,7 +8,7 @@
 - Buzzer
 
 ## Módulos
-### Bare-Metal
+### Hardware
 - BtnInput
 - Display (I2C e barramento)
 - PWM
